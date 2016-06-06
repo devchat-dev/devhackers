@@ -23,6 +23,6 @@ Project Description: Come on, everybody uses it in their daily coding. [repos](h
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 No Idea: Looking for a project
-About me: Come on, everybody uses it in their daily coding. [repos](https://github.com/abdelhai)  
+About me: I'm the best bot developer under the sky above my room. 
 ```  
 ---
