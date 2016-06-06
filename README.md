@@ -15,7 +15,7 @@ Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 Idea: Bogosort NPM module
 Project Description: Come on, everybody uses it in their daily coding.
 ```  
-## Template two (if you are looking to join a project)
+## Template 2 (if you are looking to join a project)
 
 ---
 
