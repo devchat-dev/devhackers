@@ -30,7 +30,7 @@ About me: I'm the best bot developer under the sky above my room.
 ## The List
 
 ---
-[⚓](#nixoninnes) **James NixonInnes** {[github](https://github.com/nixoninnes) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [project](https://github.com/NixonInnes/Flask-Git)}  
+[⚓](#nixoninnes) **James NixonInnes** {[github](https://github.com/nixoninnes) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [project: Flask-Git](https://github.com/NixonInnes/Flask-Git)}  
 ```
 Skills: Python, Flask, SQLAlchemy, Linux
 Idea: A website powered by Flask to manage git repo's
