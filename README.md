@@ -51,8 +51,8 @@ About me: Soon to be third-year Comp Sci major. Main school language is C++, I'm
 [⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [slack](https://devolio-devchat.slack.com/messages/@mustafa)}  
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
-No Idea: Looking for a project
-About me: Anything with python, API's and CLI's. Or Elixir.. 
+No Idea: Anything with python, API's and CLI's. Or Elixir..
+About me: I like functions and dislike OOP.
 ```  
 
 ---
