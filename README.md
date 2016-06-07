@@ -1,5 +1,5 @@
 # DevHackers List 🖖  
-> See [DevHack](https://github.com/devolio-devchat/devhack) for details.  
+> See [DevHack](https://github.com/devolio-devchat/devhack) or [#devhack](https://devolio-devchat.slack.com/messages/devhack/details/) for details.  
   
 Use the template below to submit a pull request with your details (If you don't know just [create an issue](https://github.com/devolio-devchat/devhackers/issues/new)).  
 Use the anchor like this: `[⚓](#<your_github_username)`. That's super handy for sharing and referencing.  
