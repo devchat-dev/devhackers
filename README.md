@@ -5,7 +5,7 @@ Use the template below to submit a pull request with your details (If you don't 
 Use the anchor like this: `[⚓](#<your_github_username)`. That's super handy for sharing and referencing.  
   
 Use one template as described below.  
-## Template 1 (if you have an idea):
+#### Template 1 (if you have an idea):
 
 ---
 
@@ -15,7 +15,7 @@ Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 Idea: Bogosort NPM module
 Project Description: Come on, everybody uses it in their daily coding.
 ```  
-## Template 2 (if you are looking to join a project)
+#### Template 2 (if you are looking to join a project)
 
 ---
 
@@ -37,7 +37,7 @@ Idea: A website powered by Flask to manage git repo's
 Project Description: A site to maintain git repositiries before they're pushed publicaly, with an ability to "squash" commits together.
 ``` 
 
-[⚓](#davidschaeffer2) **Dave Schaeffer** {[github](https://github.com/davidschaeffer2)|[slack](https://devolio-devchat.slack.com/messages/@dave)}
+[⚓](#davidschaeffer2) **Dave Schaeffer** {[github](https://github.com/davidschaeffer2) | [slack](https://devolio-devchat.slack.com/messages/@dave)}
 ```
 Skills: C++, Java, some HTML/CSS/JS/PHP/MySQL.
 No idea, looking for a project. Preferably C++ or Android related at the moment.
