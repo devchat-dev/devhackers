@@ -26,3 +26,13 @@ No Idea: Looking for a project
 About me: I'm the best bot developer under the sky above my room. 
 ```  
 ---
+
+## The List
+
+---
+[⚓](#nixoninnes) **James NixonInnes** {[github](https://github.com/nixoninnes) | [project](https://github.com/NixonInnes/Flask-Git)}  
+```
+Skills: Python, Flask, SQLAlchemy, Linux
+Idea: A website powered by Flask to manage git repo's
+Project Description: A site to maintain git repositiries before they're pushed publicaly, with an ability to "squash" commits together.
+``` 
