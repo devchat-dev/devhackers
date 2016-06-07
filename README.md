@@ -1,8 +1,8 @@
 # DevHackers List June 2016 🖖  
 > See [DevHack](https://github.com/devolio-devchat/devhack) or [#devhack](https://devolio-devchat.slack.com/messages/devhack/details/) for details.  
 
-To participate use one of the templates below and submit a pull request to this README with your details (If you don't know just [create an issue](https://github.com/devolio-devchat/devhackers/issues/new)).  
-
+To participate use one of the templates below and submit a pull request to this README with your details.
+The simplest way to create a pull request is to [edit this README](https://github.com/devolio-devchat/devhackers/edit/master/README.md) and GitHub will walk you through submitting the changes!  
 
 
 ## Project Template  
@@ -100,10 +100,19 @@ Contact(s):
 </dl>
 ---
 
-[⚓](#mkulinski) **Michael Kulinski** {[github](https://github.com/mkulinski) | [slack](https://devolio-devchat.slack.com/messages/@mkulinski)}  
-```
-Skills: Python, Django, JavaScript, Ruby, Rails, UI Design
-No Idea: Looking for a project
-About me: Hoping to join an active project. Not really worried about what tech you're using, just looking for an interesting idea.
-```  
+#### [⚓](#mkulinski) **Michael Kulinski** {[github](https://github.com/mkulinski) | [slack](https://devolio-devchat.slack.com/messages/@mkulinski)}  
+<dl>
+  <dt>Skills</dt>
+  <dd>
+    Python, Django, JavaScript, Ruby, Rails, UI Design
+  </dd>
+  <dt>Looking for</dt>
+  <dd>
+    Looking for a project
+  <dd>
+  <dt>About me</dt>
+  <dd>
+    Hoping to join an active project. Not really worried about what tech you're using, just looking for an interesting idea.
+  </dd>
+</dl>
 ---
