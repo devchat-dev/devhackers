@@ -9,7 +9,7 @@ Use one template as described below.
 
 ---
 
-[⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [project: project-name](https://devolio.net/mustafa)}  
+[⚓](#ghusernamei) **Some Body** {[github](https://github.com/body) | [slack](https://devolio-devchat.slack.com/messages/@body) | [project: project-name](https://github.com/body/project)}  
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 Idea: Bogosort NPM module
@@ -19,7 +19,7 @@ Project Description: Come on, everybody uses it in their daily coding.
 
 ---
 
-[⚓](#abdelhai) **Somebody Else** {[github](https://github.com/dude) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes)}  
+[⚓](#ghusername) **Somebody Else** {[github](https://github.com/dude) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes)}  
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 No Idea: Looking for a project
@@ -30,12 +30,14 @@ About me: I'm the best bot developer under the sky above my room.
 ## The List
 
 ---
+
 [⚓](#nixoninnes) **James NixonInnes** {[github](https://github.com/nixoninnes) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [project: Flask-Git](https://github.com/NixonInnes/Flask-Git)}  
 ```
 Skills: Python, Flask, SQLAlchemy, Linux
 Idea: A website powered by Flask to manage git repo's
 Project Description: A site to maintain git repositiries before they're pushed publicaly, with an ability to "squash" commits together.
 ``` 
+---
 
 [⚓](#davidschaeffer2) **Dave Schaeffer** {[github](https://github.com/davidschaeffer2) | [slack](https://devolio-devchat.slack.com/messages/@dave)}
 ```
@@ -43,3 +45,14 @@ Skills: C++, Java, some HTML/CSS/JS/PHP/MySQL.
 No idea, looking for a project. Preferably C++ or Android related at the moment.
 About me: Soon to be third-year Comp Sci major. Main school language is C++, I'm learning Android development on my own this summer. Currently going through Big Nerd Ranch's Guide to Android Development. Progress can be viewed in public repos on my github.
 ```
+
+---
+
+[⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [slack](https://devolio-devchat.slack.com/messages/@mustafa)}  
+```
+Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
+No Idea: Looking for a project
+About me: Anything with python, API's and CLI's. Or Elixir.. 
+```  
+
+---
