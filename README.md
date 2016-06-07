@@ -37,7 +37,7 @@ Idea: A website powered by Flask to manage git repo's
 Project Description: A site to maintain git repositiries before they're pushed publicaly, with an ability to "squash" commits together.
 ``` 
 
-[⚓](#davidschaeffer2) **Dave Schaeffer** {[github](https://github.com/davidschaeffer2)}
+[⚓](#davidschaeffer2) **Dave Schaeffer** {[github](https://github.com/davidschaeffer2)|[slack](https://devolio-devchat.slack.com/messages/@dave)}
 ```
 Skills: C++, Java, some HTML/CSS/JS/PHP/MySQL.
 No idea, looking for a project. Preferably C++ or Android related at the moment.
