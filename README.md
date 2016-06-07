@@ -9,7 +9,7 @@ Use one template as described below.
 
 ---
 
-[⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [website](https://devolio.net/mustafa) | [link to the project](https://devolio.net/mustafa)}  
+[⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [link to the project](https://devolio.net/mustafa)}  
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 Idea: Bogosort NPM module
@@ -19,7 +19,7 @@ Project Description: Come on, everybody uses it in their daily coding.
 
 ---
 
-[⚓](#abdelhai) **Somebody Else** {[github](https://github.com/dude) | [website](https://some.link)}  
+[⚓](#abdelhai) **Somebody Else** {[github](https://github.com/dude) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes)}  
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 No Idea: Looking for a project
@@ -30,7 +30,7 @@ About me: I'm the best bot developer under the sky above my room.
 ## The List
 
 ---
-[⚓](#nixoninnes) **James NixonInnes** {[github](https://github.com/nixoninnes) | [project](https://github.com/NixonInnes/Flask-Git)}  
+[⚓](#nixoninnes) **James NixonInnes** {[github](https://github.com/nixoninnes) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [project](https://github.com/NixonInnes/Flask-Git)}  
 ```
 Skills: Python, Flask, SQLAlchemy, Linux
 Idea: A website powered by Flask to manage git repo's
