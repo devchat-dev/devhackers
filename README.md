@@ -9,7 +9,7 @@ Use one template as described below.
 
 ---
 
-[⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [link to the project](https://devolio.net/mustafa)}  
+[⚓](#abdelhai) **Mustafa Abdelhai** {[github](https://github.com/abdelhai) | [slack](https://devolio-devchat.slack.com/messages/@nixoninnes) | [project: project-name](https://devolio.net/mustafa)}  
 ```
 Skills: Python, Flask, Django, JavaScript, Linux, MongoDB, Firebase
 Idea: Bogosort NPM module
