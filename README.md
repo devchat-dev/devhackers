@@ -36,3 +36,10 @@ Skills: Python, Flask, SQLAlchemy, Linux
 Idea: A website powered by Flask to manage git repo's
 Project Description: A site to maintain git repositiries before they're pushed publicaly, with an ability to "squash" commits together.
 ``` 
+
+[⚓](#davidschaeffer2) **Dave Schaeffer** {[github](https://github.com/davidschaeffer2)}
+```
+Skills: C++, Java, some HTML/CSS/JS/PHP/MySQL.
+No idea, looking for a project. Preferably C++ or Android related at the moment.
+About me: Soon to be third-year Comp Sci major. Main school language is C++, I'm learning Android development on my own this summer. Currently going through Big Nerd Ranch's Guide to Android Development. Progress can be viewed in public repos on my github.
+```
