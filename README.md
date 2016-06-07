@@ -99,3 +99,11 @@ Contact(s):
   </dd>
 </dl>
 ---
+
+[⚓](#mkulinski) **Michael Kulinski** {[github](https://github.com/mkulinski) | [slack](https://devolio-devchat.slack.com/messages/@mkulinski)}  
+```
+Skills: Python, Django, JavaScript, Ruby, Rails, UI Design
+No Idea: Looking for a project
+About me: Hoping to join an active project. Not really worried about what tech you're using, just looking for an interesting idea.
+```  
+---
