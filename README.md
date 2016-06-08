@@ -122,3 +122,20 @@ Contact(s):
   </dd>
 </dl>
 ---
+
+#### [⚓](#hcjk) **Henry Kaufman** {[github](https://github.com/hcjk) | [slack](https://devolio-devchat.slack.com/messages/@henry)}  
+<dl>
+  <dt>Skills</dt>
+  <dd>
+    MEAN Stack (MongoDB, ExpressJS, AngularJS, Node.js), React (little), Design
+  </dd>
+  <dt>Looking for</dt>
+  <dd>
+    Looking for a project, especially using realtime APIs to handle data.
+  <dd>
+  <dt>About me</dt>
+  <dd>
+    I'm a developer (mostly), but also a designer. I'd love to help someone build an awesome MVP!
+  </dd>
+</dl>
+---
