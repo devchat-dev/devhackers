@@ -1,4 +1,4 @@
-# DevHackers List June 2016 🖖  
+# DevHackers June 2016 🖖  
 > See [DevHack](https://github.com/devolio-devchat/devhack) or [#devhack](https://devolio-devchat.slack.com/messages/devhack/details/) for details.  
 
 To participate use one of the templates below and submit a pull request to this README with your details.
