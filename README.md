@@ -2,7 +2,13 @@
 > See [DevHack](https://github.com/devolio-devchat/devhack) or [#devhack](https://devolio-devchat.slack.com/messages/devhack/details/) for details.  
 
 To participate use one of the templates below and submit a pull request to this README with your details.
-The simplest way to create a pull request is to [edit this README](https://github.com/devolio-devchat/devhackers/edit/master/README.md) and GitHub will walk you through submitting the changes!  
+The simplest way to create a pull request is to [edit this README](https://github.com/devolio-devchat/devhackers/edit/master/README.md) and GitHub will walk you through submitting the changes!
+
+### Contents
+1)  [Project Template](#project-template)  
+2)  [Participant Template](#participant-template)  
+3)  [Projects](#projects)  
+4)  [Participants](#participants)  
 
 
 ## Project Template  
